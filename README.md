@@ -1,4 +1,6 @@
-README: Expense Manager Dashboard
+Expense Manager Dashboard
+
+Track, analyse, and optimise your spending with an interactive, SQL-driven budgeting app built in Python and Streamlit.
 
 This README provides detailed information on setting up, running, and using the Expense Manager Dashboard, a Streamlit application for managing and visualizing user expenses.
 
