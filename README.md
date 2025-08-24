@@ -117,9 +117,6 @@ Start the Streamlit server:
 streamlit run app.py
 ```
 
-The app will open at:
-👉 [http://localhost:8501](http://localhost:8501)
-
 ---
 
 ## 📘 Usage Guide
